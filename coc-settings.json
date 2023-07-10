@@ -1,0 +1,12 @@
+{
+	"codeLens.enable": true,
+	"languageserver": {
+	  "elixirLS": {
+		"command": "/home/poly/elixir_ls/language_server.sh",
+		"filetypes": ["elixir", "eelixir"],
+		"settings": {
+			"fetchDeps": true
+		}
+	  }
+	}
+}
