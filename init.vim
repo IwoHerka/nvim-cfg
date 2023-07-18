@@ -222,7 +222,7 @@ nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 
 :set colorcolumn=89
 
-:set foldmethod=indent
+" :set foldmethod=indent
 
 " Disables display of the 'Bookmarks' label and 'Press ? for help' text.
 let NERDTreeMinimalUI=1
